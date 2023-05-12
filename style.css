@@ -1,0 +1,173 @@
+.header {
+
+
+
+
+position: absolute;
+width: 59.15px;
+height: 29px;
+left: 83px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+
+}
+
+.Pagrindinis {
+    position: absolute;
+    width: 126.75px;
+    height: 24px;
+    left: 1018.56px;
+    top: 48px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+}
+
+.Galerija {
+
+    position: absolute;
+width: 85.71px;
+height: 24px;
+left: 1205.67px;
+top: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+}
+.Kainos {
+
+    position: absolute;
+width: 77.26px;
+height: 24px;
+left: 1351.74px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.hero-section {
+
+    position: absolute;
+    width: 1346px;
+    height: 665px;
+    left: 83px;
+    top: 109px;
+    
+}
+.HEADLINE {
+
+
+    position: absolute;
+    width: 317px;
+    height: 77px;
+    left: 618px;
+    top: 272px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #000000;
+}
+
+.textarea {
+
+    position: absolute;
+    width: 767px;
+    height: 78px;
+    left: 393px;
+    top: 376px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.explore-btn {
+
+    position: absolute;
+width: 167px;
+height: 34.8px;
+left: 489px;
+top: 560.2px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+
+.explore-btn {
+
+
+    position: absolute;
+width: 353px;
+height: 34.22px;
+left: 717px;
+top: 563px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.img-container {
+
+
+
+    position: absolute;
+width: 665px;
+height: 1346px;
+left: 1429px;
+top: 109px;
+
+opacity: 0.5;
+border-radius: 41px;
+transform: rotate(90deg);
+}
+
+
+
+
+
+
+
+
